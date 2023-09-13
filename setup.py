@@ -25,7 +25,7 @@ def get_requirements(file_path:str)->List[str]:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Brain tumor prediction--Project"
+REPO_NAME = "Brain_tumor"
 AUTHOR_USER_NAME = "Vampaxx"
 SRC_REPO = "brain_tumor"
 AUTHOR_EMAIL = "arjunappu1001@gmail.com"
