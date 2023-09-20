@@ -1,6 +1,6 @@
 {
  "argv": [
-  "python",
+  "C:/Users/Asus/vs_code/brain_tumor/brain\\python.exe",
   "-m",
   "ipykernel_launcher",
   "-f",
@@ -9,6 +9,6 @@
  "display_name": "Python 3 (ipykernel)",
  "language": "python",
  "metadata": {
-  "debugger": true
+  "debugger": false
  }
 }
